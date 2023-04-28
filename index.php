@@ -9,5 +9,9 @@
 <body>
     <h1>Hello Sayang</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam fugit repellendus porro itaque, ex esse!g</p>
+    <ul>
+        <li>Satu</li>
+        <li>Dua</li>
+    </ul>
 </body>
 </html>
